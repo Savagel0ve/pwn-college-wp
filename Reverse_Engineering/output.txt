@@ -1,0 +1,2 @@
+19664 --- SIGABRT {si_signo=SIGABRT, si_code=SI_TKILL, si_pid=19664, si_uid=1000} ---
+19664 +++ killed by SIGABRT (core dumped) +++
