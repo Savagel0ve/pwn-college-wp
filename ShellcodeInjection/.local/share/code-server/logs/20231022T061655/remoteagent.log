@@ -1,0 +1,9 @@
+2023-10-22 06:16:55.918 [info] 
+
+
+
+
+2023-10-22 06:16:55.926 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-10-22 06:16:55.964 [info] Extension host agent started.
+2023-10-22 06:16:56.012 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions')
+2023-10-22 06:16:56.015 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions/extensions.json for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions/extensions.json')

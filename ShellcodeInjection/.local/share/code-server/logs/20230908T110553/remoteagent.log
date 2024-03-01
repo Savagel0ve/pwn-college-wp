@@ -1,0 +1,17 @@
+2023-09-08 11:05:53.581 [info] 
+
+
+
+
+2023-09-08 11:05:53.620 [info] Extension host agent started.
+2023-09-08 11:05:53.671 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-09-08 11:05:53.676 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions')
+2023-09-08 11:05:53.680 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions/extensions.json for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions/extensions.json')
+2023-09-08 11:05:57.298 [info] [<unknown>][3efe96a0][ManagementConnection] New connection established.
+2023-09-08 11:05:58.369 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User')
+2023-09-08 11:05:58.736 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-09-08 11:05:59.702 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+2023-09-08 11:06:01.820 [info] [<unknown>][97f7b3d7][ExtensionHostConnection] New connection established.
+2023-09-08 11:06:01.838 [info] [<unknown>][97f7b3d7][ExtensionHostConnection] <247> Launched Extension Host Process.
+2023-09-08 11:11:28.896 [info] [<unknown>][3efe96a0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-08 11:11:28.953 [info] [<unknown>][97f7b3d7][ExtensionHostConnection] <247> Extension Host Process exited with code: 0, signal: null.

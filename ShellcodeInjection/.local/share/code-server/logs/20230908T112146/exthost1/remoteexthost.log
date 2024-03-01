@@ -1,0 +1,15 @@
+2023-09-08 11:21:54.739 [info] Extension host with pid 231 started
+2023-09-08 11:21:54.768 [info] Lock '/home/hacker/.local/share/code-server/User/workspaceStorage/598af499/vscode.lock': Lock acquired.
+2023-09-08 11:21:55.009 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-08 11:21:55.210 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-08 11:21:55.211 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-08 11:21:55.776 [info] Eager extensions activated
+2023-09-08 11:21:55.777 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-08 11:21:55.778 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-08 11:21:55.980 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-08 11:22:10.192 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-09-08 11:22:14.025 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-09-08 11:22:33.882 [info] Extension host terminating: received terminate message from renderer
+2023-09-08 11:22:33.884 [info] Lock '/home/hacker/.local/share/code-server/User/workspaceStorage/598af499/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-08 11:22:33.919 [info] Extension host with pid 231 exiting with code 0

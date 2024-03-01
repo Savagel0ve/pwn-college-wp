@@ -1,0 +1,28 @@
+2023-09-08 11:04:26.219 [info] 
+
+
+
+
+2023-09-08 11:04:26.219 [info] Extension host agent started.
+2023-09-08 11:04:26.256 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-09-08 11:04:26.261 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions')
+2023-09-08 11:04:26.264 [error] [File Watcher (node.js)] Failed to watch /opt/code-server/extensions/extensions.json for changes using fs.watch() (Error: EMFILE: too many open files, watch '/opt/code-server/extensions/extensions.json')
+2023-09-08 11:04:30.131 [info] [<unknown>][23a162f2][ManagementConnection] New connection established.
+2023-09-08 11:04:30.719 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User')
+2023-09-08 11:04:30.907 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-09-08 11:04:31.127 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+2023-09-08 11:04:33.187 [info] [<unknown>][91670a6b][ExtensionHostConnection] New connection established.
+2023-09-08 11:04:33.233 [info] [<unknown>][91670a6b][ExtensionHostConnection] <235> Launched Extension Host Process.
+2023-09-08 11:04:34.530 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User/snippets for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User/snippets')
+2023-09-08 11:04:50.867 [info] [<unknown>][23a162f2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-08 11:04:54.352 [info] [<unknown>][51e2f138][ManagementConnection] New connection established.
+2023-09-08 11:04:54.412 [info] [<unknown>][91670a6b][ExtensionHostConnection] <235> Extension Host Process exited with code: 0, signal: null.
+2023-09-08 11:04:55.032 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User')
+2023-09-08 11:04:55.258 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/Machine for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/Machine')
+2023-09-08 11:04:56.991 [info] [<unknown>][9089f694][ExtensionHostConnection] New connection established.
+2023-09-08 11:04:57.003 [info] [<unknown>][9089f694][ExtensionHostConnection] <360> Launched Extension Host Process.
+2023-09-08 11:04:58.091 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User/snippets for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User/snippets')
+2023-09-08 11:05:31.107 [info] [<unknown>][51e2f138][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-08 11:05:31.177 [info] [<unknown>][9089f694][ExtensionHostConnection] <360> Extension Host Process exited with code: 0, signal: null.
+2023-09-08 11:05:33.154 [info] [<unknown>][3f8d8142][ManagementConnection] New connection established.
+2023-09-08 11:05:33.836 [error] [File Watcher (node.js)] Failed to watch /home/hacker/.local/share/code-server/User for changes using fs.watch() (Error: EMFILE: too many open files, watch '/home/hacker/.local/share/code-server/User')
